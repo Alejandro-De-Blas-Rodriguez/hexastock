@@ -1,0 +1,2 @@
+Ibuprofeno;0
+Paracetamol;0
